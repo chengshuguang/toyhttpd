@@ -355,5 +355,3 @@ int main(int argc, char *argv[])
 	close(epfd);
 	return 0;
 }
-//g++ -g -Wall toyhttpd.cpp conn_info_manager.h -o main
-//./main 8080 ~/testFolder/httpfolder/
